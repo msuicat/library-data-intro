@@ -1,5 +1,5 @@
 ---
-title: "Regular Expressions: Matching"
+title: "Regular Expressions"
 teaching: 20
 exercises: 25
 questions:
